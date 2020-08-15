@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1,BEIN SPORT LOW 1 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/13
+#EXTINF:-1,BEIN SPORT LOW 2 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/14
+#EXTINF:-1,BEIN SPORT LOW 3 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/15
+#EXTINF:-1,BEIN SPORT LOW 4 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/16
+#EXTINF:-1,BEIN SPORT LOW 5 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/17
+#EXTINF:-1,BEIN SPORT NEWS HD
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/18
+#EXTINF:-1,BEIN SPORT HD 1
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/19
+#EXTINF:-1,BEIN SPORT HD 2
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/20
+#EXTINF:-1,BEIN SPORT HD 3
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/21
+#EXTINF:-1,BEIN SPORT HD 4
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/22
+#EXTINF:-1,BEIN SPORT HD 5
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/23
+#EXTINF:-1,BEIN SPORT LOW 6 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/209
+#EXTINF:-1,BEIN SPORT LOW 7 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/210
+#EXTINF:-1,BEIN SPORT LOW 8 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/211
+#EXTINF:-1,BEIN SPORT LOW 9 BACKUP
+#EXTVLCOPT:http-user-agent=ANDBROTHER
+http://blackfiretv.net:25461/blacktvsport/ROcSRKY58z/212
